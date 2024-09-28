@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 4th Year Industrial and Systems Engineering Student at the University of Florida
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Florida</p>
+    <p>Gainesville, FL 32611</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Andrés Espinosa is a fourth-year Industrial Engineering Honors Student at the University of Florida with experience in supply chain management and transportation optimization research. He will be graduating from UF with his bachelor’s in ISE in May 2025 and with his master’s in ISE in May 2026. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Andrés has worked as a teaching assistant for five courses in the UF College of Engineering: EEL3003 (Intro to Circuits), ESI3215C (ISE Statistics), ESI4313 (Operations Research II), ESI4610 (Intro to Data Analytics), and EIN4343 (Inventory and Supply Chain Management). His research at the university has been conducted under Dr. Aleksandr M. Kazachkov, where Andrés used Python to create a transportation optimization back-end system for a local food bank. He was also awarded Best UG Poster for his personal research in generative music AI models at the 2024 Spring ISE Research Symposium.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Andrés is an Ambassador for the Industrial and Systems Engineering Department where he leads the Undergraduate Research Exposure Program and co-leads the ISEA Outreach Podcast. Andrés is also a software lead for the Audio Engineering Society where he has led workshops on writing bossa nova music and creating generative music AI models.
+
+Andrés spent his 2024 summer as a Supply Chain Intern at Procter & Gamble. During his time in Cincinnati, he completed five projects that spanned all North America planning operations for P&G Hair Care (and learned how to play pickleball!). He also worked for three semesters in 2023 as an Energy Analyst for Gainesville Regional Utilities. Through these experiences, he built a mastery of finding problems, asking the right questions, analyzing data, and building a solution. 
+
