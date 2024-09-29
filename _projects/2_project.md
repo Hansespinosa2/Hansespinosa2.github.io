@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Pokemon ML Project
+description: Educational project using NumPy, Pandas, SciKit-Learn, and Matplotlib.
+img: assets/img/2.jpg
 importance: 2
-category: work
+category: fun
 giscus_comments: true
 ---
 

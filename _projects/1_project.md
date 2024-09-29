@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: VBA ERP Module
+description: ESI4356 Project.  An Excel VBA module created for a steel manufacturing company to automate ordering decisions.
+img: assets/img/1.jpg
 importance: 1
 category: work
 related_publications: true

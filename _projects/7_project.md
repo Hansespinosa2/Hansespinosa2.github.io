@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
+title: TRAFFIC
+description: UF 2023 Gator Tank Finalist - Transportation Risk Assessment and Forecasting For Intelligent Corrections
+img: assets/img/7.jpg
+importance: 7
+category: fun
 related_publications: true
 ---
 

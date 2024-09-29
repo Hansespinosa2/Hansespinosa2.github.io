@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Backing Track Generator
+description: MAD2502 Computational music project that stochastically generates backing tracks for improvisation.
+img: assets/img/4.jpg
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

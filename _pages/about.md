@@ -13,7 +13,7 @@ profile:
     <p>Gainesville, FL 32611</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -23,5 +23,5 @@ Andrés has worked as a teaching assistant for five courses in the UF College of
 
 Andrés is an Ambassador for the Industrial and Systems Engineering Department where he leads the Undergraduate Research Exposure Program and co-leads the ISEA Outreach Podcast. Andrés is also a software lead for the Audio Engineering Society where he has led workshops on writing bossa nova music and creating generative music AI models.
 
-Andrés spent his 2024 summer as a Supply Chain Intern at Procter & Gamble. During his time in Cincinnati, he completed five projects that spanned all North America planning operations for P&G Hair Care (and learned how to play pickleball!). He also worked for three semesters in 2023 as an Energy Analyst for Gainesville Regional Utilities. Through these experiences, he built a mastery of finding problems, asking the right questions, analyzing data, and building a solution. 
+Andrés spent his 2024 summer as a Supply Chain Intern at Procter & Gamble. During his time in Cincinnati, he completed five projects that spanned all North America planning operations for P&G Hair Care (and learned how to play pickleball!). He also worked for three semesters as an Energy Analyst for Gainesville Regional Utilities. Through these experiences, he built a mastery of finding problems, asking the right questions, analyzing data, and building a solution. 
 

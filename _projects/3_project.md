@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Midi Crusher
+description: A python package to compress MIDI files more easily.
+img: assets/img/3.jpg
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

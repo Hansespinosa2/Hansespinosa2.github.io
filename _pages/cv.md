@@ -1,11 +1,14 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
+nav_order: 3
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<div style="text-align: center;">
+  <iframe src="/assets/pdf/resume.pdf" width="100%" height="100%">
+    Your browser does not support iframes. You can <a href="/assets/pdf/resume.pdf">download the PDF here</a>.
+  </iframe>
+</div>
