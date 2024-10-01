@@ -8,18 +8,10 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project was a group project for the course ESI4356: Decision Support Systems. The members of this project were Andres Espinosa, Rohan Nadgir, Kaylie Coatney, and Rodolfo Remien. The project was to create a decision support system for a steel manufacturing company to automate ordering decisions. The problem statement was as follows: SteelTime would like a program to evaluate the cost to manufacture a job and provide outputs that help the company decide what products they should outsource for a job if any.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our solution was a comprehensive VBA module where the manufacturer could keep a input and keep a record of their clients, their orders, and their jobs to fulfill. The manufacturer could use this VBA module as an end-to-end solution for their business, starting at inputting client information and ending at developing a cost report and recommended solution for job fulfillment.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
