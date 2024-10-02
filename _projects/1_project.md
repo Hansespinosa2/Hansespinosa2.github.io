@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-This project was a group project for the course ESI4356: Decision Support Systems. The members of this project were Andres Espinosa, Rohan Nadgir, Kaylie Coatney, and Rodolfo Remien. The project was to create a decision support system for a steel manufacturing company to automate ordering decisions. The problem statement was as follows: SteelTime would like a program to evaluate the cost to manufacture a job and provide outputs that help the company decide what products they should outsource for a job if any.
+This project was a group project for the course ESI4356: Decision Support Systems. The members of this project were Andres Espinosa, Rohan Nadgir, Kaylie Coatney, and Rodolfo Remien. We were tasked with creating a decision support system for a steel manufacturing company to automate ordering decisions. The problem statement was as follows: SteelTime would like a program to evaluate the cost to manufacture a job and provide outputs that help the company decide what products they should outsource for a job if any.
 
 Our solution was a comprehensive VBA module where the manufacturer could keep a input and keep a record of their clients, their orders, and their jobs to fulfill. The manufacturer could use this VBA module as an end-to-end solution for their business, starting at inputting client information and ending at developing a cost report and recommended solution for job fulfillment.
 

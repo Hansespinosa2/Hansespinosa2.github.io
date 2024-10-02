@@ -2,10 +2,11 @@
 layout: page
 title: IPPD Team Tactica
 description: Navigating the Multiverse – Determining optimal strategy through Reinforcement Learning and Simulation
-img: assets/img/7.jpg
-importance: 7
+img: assets/img/8.jpg
+importance: 8
 category: fun
 related_publications: true
+redirect: https://www.ippd.ufl.edu/blogs/ay2425team03/blog-posts/
 ---
 
 Every project has a beautiful feature showcase page.
