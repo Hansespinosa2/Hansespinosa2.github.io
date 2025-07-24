@@ -11,13 +11,13 @@ profile:
   more_info: >
     <p>University of Florida</p>
     <p>Gainesville, FL 32611</p>
-    <p>andresespinosa@ufl.edu</p>
+    <p>andres.espinosa.personal@gmail.com</p>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Andrés Espinosa is a fourth-year Industrial Engineering Honors Student at the University of Florida with experience in supply chain management and transportation optimization research. He will be graduating from UF with his bachelor’s in ISE in May 2025 and with his master’s in ISE in May 2026. 
+Andrés Espinosa is a current Erasmus Mundus in Sustainable Systems Engineering student and University of Florida graduate with experience in supply chain innovation, project management, and transportation optimization research. He graduated summa cum laude from the University of Florida in 2025 with a B.S. in Industrial and Systems Engineering with minors in Economics and Sales Engineering.
 
 Andrés has worked as a teaching assistant for five courses in the UF College of Engineering: EEL3003 (Intro to Circuits), ESI3215C (ISE Statistics), ESI4313 (Operations Research II), ESI4610 (Intro to Data Analytics), and EIN4343 (Inventory and Supply Chain Management). His research at the university has been conducted under Dr. Aleksandr M. Kazachkov, where Andrés used Python to create a transportation optimization back-end system for a local food bank. He was also awarded Best UG Poster for his personal research in generative music AI models at the 2024 Spring ISE Research Symposium.
 
