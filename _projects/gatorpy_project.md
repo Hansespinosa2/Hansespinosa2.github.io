@@ -2,9 +2,9 @@
 layout: page
 title: GatorPy
 description: A Custom Implemented Linear Programming Solver. This project is a pure Python and NumPy implementation of Simplex Algorithm, Computational Math OOP, and LP Reductions.
-img: assets/img/10.jpg
+img: assets/img/gatorpy_cover.jpg
 importance: 10
-category: work
+category: 2025
 project_intro: true
 repository:
   - Hansespinosa2/ech4905-andres-espinosa

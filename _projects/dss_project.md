@@ -2,9 +2,9 @@
 layout: page
 title: VBA ERP Module
 description: ESI4356 Project.  An Excel VBA module created for a steel manufacturing company to automate ordering decisions.
-img: assets/img/1.jpg
+img: assets/img/dss_cover.jpg
 importance: 1
-category: work
+category: 2023
 ---
 
 This project was a group project for the course ESI4356: Decision Support Systems. The members of this project were Andres Espinosa, Rohan Nadgir, Kaylie Coatney, and Rodolfo Remien. We were tasked with creating a decision support system for a steel manufacturing company to automate ordering decisions. The problem statement was as follows: SteelTime would like a program to evaluate the cost to manufacture a job and provide outputs that help the company decide what products they should outsource for a job if any.
