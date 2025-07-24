@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 2025-2027 EMSSE Student and 2x P&G Supply Chain Intern
+subtitle: 2025-2027 EMSSE Student, UF ISE Alumnus, and 2x P&G Supply Chain Intern
 
 profile:
   align: right
