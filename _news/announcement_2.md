@@ -1,6 +1,6 @@
 ---
-layout: post
-title: A long announcement with details
+layout: none
+title: UF Engineering Alumni Spotlight - ISE alum Andres Espinosa
 date: 2025-06-06 16:11:00-0400
 inline: false
 related_posts: false
