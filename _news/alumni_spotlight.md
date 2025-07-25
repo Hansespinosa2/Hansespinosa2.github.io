@@ -1,8 +1,6 @@
 ---
-layout: none
-title: UF Engineering Alumni Spotlight - ISE alum Andres Espinosa
+layout: post
 date: 2025-06-06 16:11:00-0400
-inline: false
-related_posts: false
-redirect: https://www.eng.ufl.edu/news/alumni-spotlight/andres-espinosa/
+inline: true
 ---
+UF Engineering [Alumni Spotlight](https://www.eng.ufl.edu/news/alumni-spotlight/andres-espinosa/) - ISE alum Andres Espinosa
