@@ -1,4 +1,17 @@
 ---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: resume.pdf # you can also use external links here
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
+---
+
+
+<!-- ---
 layout: none
 permalink: /cv/
 title: cv
@@ -11,4 +24,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
   <iframe src="/assets/pdf/resume.pdf" width="100%" height="100%">
     Your browser does not support iframes. You can <a href="/assets/pdf/resume.pdf">download the PDF here</a>.
   </iframe>
-</div>
+</div> -->
