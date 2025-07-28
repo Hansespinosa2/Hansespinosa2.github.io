@@ -8,29 +8,47 @@
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "EMSSE Student, P&G Intern, and University of Florida ISE Alumni",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Coral Gables",
       "countryCode": "US",
-      "region": "California"
+      "region": "Florida"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "andres-espi",
+        "url": "https://www.linkedin.com/in/andres-espi/"
       }
     ]
   },
   "work": [
     {
       "name": "Procter & Gamble",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "position": "Warehouse Operations Intern",
+      "url": "",
+      "startDate": "2025-05-19",
+      "endDate": "2025-08-08",
+      "summary": "",
+      "highlights": ["Warehouse logistics", "Loss elimination", "Cost-to-Serve analysis"]
+    },
+    {
+      "name": "Procter & Gamble",
+      "position": "Hair Care Planning Intern",
+      "url": "",
       "startDate": "2024-05-20",
-      "endDate": "2024-08-08",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "2024-08-09",
+      "summary": "",
+      "highlights": ["Data analytics", "Inventory management", "Process automation"]
+    },
+    {
+      "name": "University of Florida",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2022-04-28",
+      "endDate": "2025-04-30",
+      "summary": "",
+      "highlights": ["EEL 3003 - Elements of Electrical Engineering", "ESI3215C - Industrial Engineering Statistics", "ESI4313 - Operations Research II", "ESI4610 - Introduction to Data Analytics", "EIN4343 - Inventory and Supply Chain", "ESI4611 - Advanced Data Analytics"]
     }
   ],
   "volunteer": [
