@@ -10,7 +10,7 @@ repository:
   - Hansespinosa2/ech4905-andres-espinosa
 ---
 
-# GatorPy Report
+# GatorPy
 GatorPy is an educationally motivated Linear Programming (LP) solver implemented in pure Python and NumPy. This project aims to demystify the internal workings of LP solvers by providing a simple, modular, and object-oriented framework. GatorPy transforms symbolic problem descriptions into slack form and solves them using the two-phase Simplex method.
 
 See the below toy optimization example solved in GatorPy:

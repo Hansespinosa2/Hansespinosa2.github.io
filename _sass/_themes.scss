@@ -3,19 +3,19 @@
  ******************************************************************************/
 
 @use "sass:color";
-@use "variables" as *;
+@use "custom" as *;
 
 :root {
   --global-bg-color: #{$theme-bg-light};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-code-bg-color: #{$theme-bg-3-light};
   --global-text-color: #{$theme-text-light};
   --global-text-color-light: #{$theme-subtle-text-light};
   --global-theme-color: #{$theme-accent-text-light};
   --global-hover-color: #{$theme-accent-text-light};
   --global-hover-text-color: #{$theme-bg-light};
   --global-footer-bg-color: #{$theme-text-light};
-  --global-footer-text-color: #{$theme-bg-dark};
-  --global-footer-link-color: #{$theme-bg-light};
+  --global-footer-text-color: #{$theme-bg-light};
+  --global-footer-link-color: #{$theme-bg-3-light};
   --global-distill-app-color: #{$theme-text-light};
   --global-divider-color: #{$theme-bg-2-light};
   --global-card-bg-color: #{$theme-bg-3-light};
@@ -77,7 +77,7 @@
 
 html[data-theme="dark"] {
   --global-bg-color: #{$theme-bg-dark};
-  --global-code-bg-color: #{$code-bg-color-dark};
+  --global-code-bg-color: #{$theme-bg-3-dark};
   --global-text-color: #{$theme-text-dark};
   --global-text-color-light: #{$theme-subtle-text-dark};
   --global-theme-color: #{$theme-accent-text-dark};
