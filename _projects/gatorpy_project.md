@@ -36,7 +36,7 @@ problem = Problem({
 
 solution = problem.solve()
 print(solution)
-print((1.14, [0.71, 0.29], True))
+>>> (1.14, [0.71, 0.29], True)
 ```
 The GatorPy solver supports a custom modeling language (as seen above) and is designed to be readable, extensible, and transparent for other students and practicioners embarking on similar projects
 
