@@ -15,6 +15,13 @@ From a game theory perspective, Casa Amor works as a simultaneous-move game wher
 
 In this coordination game, the best outcome would be for both islanders to stay loyal, as they keep their strong connection and avoid any reputation fallout from betraying their previous love. Another positive outcome, but less desirable, is for both islanders to recouple with the Casa Amor contestants. In this event, both islanders are able to come back to the villa coupled up, but with a seemingly less strong connection. The **worst** scenario occurs when one islander chooses to stay loyal when their previous partner chooses to recouple. This results in the loyal islander now single and vulnerable, while the recoupled islander suffers from reputation fallout and guilt.
 
-In order to quantify the outcome of this game we can use a "happiness" score to represent how happy the islanders are after the events of Casa Amor. 
+We can quantify the outcome of this game by creating a "happiness" score to represent how happy the islanders are after the events of Casa Amor. This "happiness" score is typically called a "payoff" in game theory.
 
 A score of 9-10 means an islander is incredibly happy while a score of 0-1 means an islander is incredibly sad. 
+
+Creating a hypothetical scenario, we can imagine a scenario with two islanders: Noah and Stephanie. Both Noah and Stephanie have the option to either Looking at the payoff matrix below, we can organize the happiness scores of the islanders based on their decisions.
+
+|               | Stephanie: Loyal      | Stephanie: Recouples   |
+|---------------|---------------------|-----------------------|
+| **Noah: Loyal**    | (8, 8)              | (1, 6)                |
+| **Noah: Recouple** | (6, 1)              | (5, 5)                |
