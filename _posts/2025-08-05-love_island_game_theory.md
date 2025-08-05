@@ -19,7 +19,7 @@ We can quantify the outcome of this game by creating a "happiness" score to repr
 
 A score of 9-10 means an islander is incredibly happy while a score of 0-1 means an islander is incredibly sad. 
 
-Creating a hypothetical scenario, we can imagine a scenario with two islanders: Noah and Stephanie. Both Noah and Stephanie have the option to either Looking at the payoff matrix below, we can organize the happiness scores of the islanders based on their decisions.
+To illustrate how the players would feel in different outcomes, we can imagine a scenario with two islanders: Noah and Stephanie. Both Noah and Stephanie have the option of either staying loyal to each other or recoupling. If both Noah and Stephanie stay loyal, they are both *very happy* at 8/10. If both Noah and Stephanie decide to recouple, they are both equally *okay* at 5/10. However, if Noah decides to stay loyal while Stephanie decides to recouple, Noah is *extremely sad* and has a happiness score of 1/10 while Stephanie is *content* with a score of 6/10. This game is symmetric, which means that Noah and Stephanie like each other the same amount. Looking at the payoff matrix below, we can organize the happiness scores of the islanders based on their decisions.
 
 |               | Stephanie: Loyal      | Stephanie: Recouples   |
 |---------------|---------------------|-----------------------|
