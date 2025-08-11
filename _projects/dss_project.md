@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VBA ERP Module
-description: ESI4356 Project.  An Excel VBA module created for a steel manufacturing company to automate ordering decisions.
+description: As my ESI4356 (DSS & VBA) class, I built an Excel VBA module for a steel manufacturing firm to automate ordering decisions.
 img: assets/img/dss_cover.jpg
 importance: 1
 category: 2023

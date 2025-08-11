@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pokemon ML Project
-description: Educational project using NumPy, Pandas, SciKit-Learn, and Matplotlib.
+description: To help other students, I built a walkthrough of a machine learning project using NumPy, Pandas, SciKit-Learn, and Matplotlib.
 img: assets/img/pokemon_cover.jpg
 importance: 2
 category: 2024

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Backing Track Generator
-description: MAD2502 Computational music project that stochastically generates backing tracks for improvisation.
+description: My first ever programming project - A heuristic algorithm that randomly generates musical backing tracks for improvisation.
 img: assets/img/backtrack_cover.jpg
 importance: 4
 category: 2022

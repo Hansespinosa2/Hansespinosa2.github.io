@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GatorPy
-description: A Custom Implemented Linear Programming Solver. This project is a pure Python and NumPy implementation of Simplex Algorithm, Computational Math OOP, and LP Reductions.
+description: For my ECH4905 (Chemical Optimization) class, I built a linear programming solver from scratch in Python.
 img: assets/img/gatorpy_cover.jpg
 importance: 10
 category: 2025

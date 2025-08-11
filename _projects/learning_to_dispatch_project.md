@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning to Dispatch
-description: A Reinforcement Learning Framework for Train Dispatching Networks - Andres Espinosa 2025 Honors Thesis
+description: For my UF B.S. honors thesis, I created a reinforcement learning framework for train dispatching networks.
 img: assets/img/learning_to_dispatch_cover.png
 importance: 9
 category: 2025
