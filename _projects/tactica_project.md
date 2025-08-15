@@ -43,12 +43,25 @@ I did **a lot** of work in this project: I architected an AI to play one of the 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=P9IId4lXs9k" class="img-fluid rounded z-depth-1" %}
+        <iframe class="img-fluid rounded z-depth-1" width="100%" height="315" 
+            src="https://www.youtube.com/embed/P9IId4lXs9k" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=nhPblKrZ5wg" class="img-fluid rounded z-depth-1" %}
+        <iframe class="img-fluid rounded z-depth-1" width="100%" height="315" 
+            src="https://www.youtube.com/embed/nhPblKrZ5wg" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
     </div>
 </div>
+
 
 As Team Tactica, we worked extensively to not only develop our project, but to document every step of the way so we can ensure that our work is as easy to learn from as possible.
 We worked together to create a [fun and educational video](https://www.youtube.com/watch?v=nhPblKrZ5wg) demonstrating what we accomplished, Brian created a [weekly blog](https://www.ippd.ufl.edu/blogs/ay2425team03/blog-posts/) to provide progress updates, I made a short [animation video](https://www.youtube.com/watch?v=P9IId4lXs9k) to explain our project AI visually, and we created an [award-winning AI research paper](https://hansespinosa2.github.io/assets/pdf/board_game_ai_strategy.pdf).
