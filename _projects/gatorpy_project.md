@@ -2,7 +2,7 @@
 layout: page
 title: GatorPy
 description: For my ECH4905 (Chemical Optimization) class, I built a linear programming solver from scratch in Python.
-img: assets/img/gatorpy_cover.jpg
+img: assets/img/gatorpy_cover.png
 importance: 10
 category: 2025
 project_intro: true

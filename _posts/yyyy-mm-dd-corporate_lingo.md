@@ -1,0 +1,1 @@
+also maybe a resume app where people can really easily tailor their resume to different jobs and then also compete in AI resume rankings.
