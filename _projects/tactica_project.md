@@ -43,7 +43,7 @@ I did **a lot** of work in this project: I architected an AI to play one of the 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe class="img-fluid rounded z-depth-1" width="100%" height="315" 
+        <iframe class="img-fluid rounded z-depth-1" width="100%" height="600" 
             src="https://www.youtube.com/embed/P9IId4lXs9k" 
             title="YouTube video player" 
             frameborder="0" 
@@ -52,7 +52,7 @@ I did **a lot** of work in this project: I architected an AI to play one of the 
         </iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <iframe class="img-fluid rounded z-depth-1" width="100%" height="315" 
+        <iframe class="img-fluid rounded z-depth-1" width="100%" height="600" 
             src="https://www.youtube.com/embed/nhPblKrZ5wg" 
             title="YouTube video player" 
             frameborder="0" 
