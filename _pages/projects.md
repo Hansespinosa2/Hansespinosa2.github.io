@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects I have worked on either for fun or for class
 nav: true
 nav_order: 2
-display_categories: [2025, 2024, 2023, 2022]
+display_categories: [2026, 2025, 2024, 2023, 2022]
 horizontal: false
 ---
 
