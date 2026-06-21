@@ -4,6 +4,7 @@
 
 @use "sass:color";
 @use "custom" as *;
+@use "variables" as v;
 
 :root {
   --global-bg-color: #{$theme-bg-light};
@@ -21,9 +22,9 @@
   --global-card-bg-color: #{$theme-bg-3-light};
   --global-highlight-color: #{$theme-accent-text-light};
   --global-back-to-top-bg-color: rgba(
-    #{color.channel($black-color, "red", $space: rgb)},
-    #{color.channel($black-color, "green", $space: rgb)},
-    #{color.channel($black-color, "blue", $space: rgb)},
+    #{color.channel(v.$black-color, "red", $space: rgb)},
+    #{color.channel(v.$black-color, "green", $space: rgb)},
+    #{color.channel(v.$black-color, "blue", $space: rgb)},
     0.4
   );
   --global-back-to-top-text-color: #{$theme-bg-light};
@@ -67,11 +68,11 @@
   #back-to-top {
     color: var(--global-back-to-top-text-color);
     background: var(--global-back-to-top-bg-color);
-    bottom: $back-to-top-bottom;
-    right: $back-to-top-right;
-    height: $back-to-top-height;
-    width: $back-to-top-width;
-    z-index: $back-to-top-z-index;
+    bottom: v.$back-to-top-bottom;
+    right: v.$back-to-top-right;
+    height: v.$back-to-top-height;
+    width: v.$back-to-top-width;
+    z-index: v.$back-to-top-z-index;
   }
 }
 
@@ -90,9 +91,9 @@ html[data-theme="dark"] {
   --global-divider-color: #{$theme-bg-2-dark};
   --global-card-bg-color: #{$theme-bg-3-dark};
   --global-back-to-top-bg-color: rgba(
-    #{color.channel($white-color, "red", $space: rgb)},
-    #{color.channel($white-color, "green", $space: rgb)},
-    #{color.channel($white-color, "blue", $space: rgb)},
+    #{color.channel(v.$white-color, "red", $space: rgb)},
+    #{color.channel(v.$white-color, "green", $space: rgb)},
+    #{color.channel(v.$white-color, "blue", $space: rgb)},
     0.5
   );
   --global-back-to-top-text-color: #{$theme-bg-dark};
