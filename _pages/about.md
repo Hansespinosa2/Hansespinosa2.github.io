@@ -13,6 +13,9 @@ profile:
     <p>Gainesville, FL 32611</p>
     <p>andres.espinosa.personal@gmail.com</p>
 news: true # includes a list of news items
+announcements:
+  enabled: true
+  limit: 5 # leave blank to include all the news in the `_news` folder
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
