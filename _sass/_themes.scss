@@ -31,6 +31,22 @@
   --global-newsletter-bg-color: #{$theme-bg-light};
   --global-newsletter-text-color: #{$theme-text-light};
 
+  body {
+    font-family: "DM Sans", sans-serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .navbar-brand,
+  .post-title,
+  .project-title {
+    font-family: "Cormorant Garamond", serif;
+  }
+
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /compositions/
-title: compositions
+title: Compositions
 description: Some musical compositions I have written.
 nav: true
 nav_order: 5
@@ -115,4 +115,3 @@ html[data-theme="dark"] .btn-mp3  { background: rgba(88,  128, 114, 0.25); color
   </div>
 
 </div>
-

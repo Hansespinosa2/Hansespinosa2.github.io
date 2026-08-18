@@ -1,27 +1,27 @@
 @use "sass:color";
 
-$my-white: #ffffff !default;
-$eerie-black: #1f2421ff !default;
-$subtle-sea: rgb(31, 45, 42) !default;
-$caribbean-current: #216869ff !default;
-$hookers-green: #588072ff !default;
-$cambridge-blue: #7D9A94ff !default;
-$jungle-green: #49a078ff !default;
-$olivine: #A0B38Aff !default;
-$cambridge-blue-2: #9cc5a1ff !default;
-$timberwolf: #D1D1D1ff !default;
-$honeydew: rgb(238, 255, 245) !default;
+$my-white: #f3f6f1 !default;
+$eerie-black: #1b1b1b !default;
+$subtle-sea: #232c27 !default;
+$caribbean-current: #2f6b4f !default;
+$hookers-green: #4f8064 !default;
+$cambridge-blue: #6f8f7b !default;
+$jungle-green: #3f7556 !default;
+$olivine: #91ae98 !default;
+$cambridge-blue-2: #a8c8ad !default;
+$timberwolf: #c9d5cc !default;
+$honeydew: #d8e3d9 !default;
 
 $theme-bg-light: $my-white !default;
 $theme-text-light: $eerie-black !default;
 $theme-accent-text-light: $hookers-green !default;
 $theme-subtle-text-light: $cambridge-blue-2 !default;
 $theme-bg-2-light: $timberwolf !default;
-$theme-bg-3-light: $honeydew !default;
+$theme-bg-3-light: #e8f0e9 !default;
 
 $theme-bg-dark: $eerie-black !default;
-$theme-text-dark: $honeydew !default;
+$theme-text-dark: #d8e0d8 !default;
 $theme-accent-text-dark: $cambridge-blue-2 !default;
-$theme-subtle-text-dark: $caribbean-current !default;
-$theme-bg-2-dark: $hookers-green !default;
+$theme-subtle-text-dark: #6f8676 !default;
+$theme-bg-2-dark: #3b4b42 !default;
 $theme-bg-3-dark: $subtle-sea !default;
