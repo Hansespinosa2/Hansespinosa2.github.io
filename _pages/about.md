@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 2025-2027 EMSSE Student, UF ISE Alumnus, and 3x P&G Intern
 
@@ -49,6 +49,5 @@ During my bachelor's, I worked as a teaching assistant for six courses in the UF
 In 2025, I was the Ambassador Lead Chair for the Industrial and Systems Engineering Department. 
 I founded and lead the UF ISE Introduction to Research Program, a program that continues to lower the entry barrier for dozens of students to enter academic research. 
 I was also a software lead for the Audio Engineering Society where I led workshops on writing bossa nova music and creating generative music AI models.
-
 
 

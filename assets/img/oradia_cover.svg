@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Oradia terminal theme cover</title>
+  <desc id="desc">A dark terminal-inspired cover for the Oradia VS Code theme.</desc>
+  <rect width="1200" height="675" fill="#151b18"/>
+  <rect x="58" y="58" width="1084" height="559" rx="18" fill="#1b1b1b" stroke="#3b4b42" stroke-width="3"/>
+  <path d="M58 126h1084" stroke="#3b4b42" stroke-width="3"/>
+  <circle cx="98" cy="92" r="8" fill="#a8c8ad"/>
+  <circle cx="126" cy="92" r="8" fill="#91ae98"/>
+  <circle cx="154" cy="92" r="8" fill="#4f8064"/>
+  <text x="108" y="240" fill="#d8e0d8" font-family="Georgia, serif" font-size="92" font-weight="600">Oradia</text>
+  <text x="114" y="294" fill="#a8c8ad" font-family="Arial, sans-serif" font-size="21" letter-spacing="4">A QUIET THEME FOR FOCUSED WORK</text>
+  <rect x="108" y="360" width="490" height="154" rx="10" fill="#151b18" stroke="#3b4b42" stroke-width="2"/>
+  <g font-family="monospace" font-size="21">
+    <text x="136" y="402" fill="#4f8064">&gt;</text>
+    <text x="166" y="402" fill="#d8e0d8">oradia-theme</text>
+    <text x="136" y="440" fill="#4f8064">+</text>
+    <text x="166" y="440" fill="#a8c8ad">focused work</text>
+    <text x="136" y="478" fill="#4f8064">*</text>
+    <text x="166" y="478" fill="#91ae98">quiet signal</text>
+  </g>
+  <g transform="translate(830 346)">
+    <circle cx="94" cy="94" r="94" fill="#232c27" stroke="#4f8064" stroke-width="2"/>
+    <circle cx="94" cy="94" r="67" fill="none" stroke="#6f8f7b" stroke-width="2"/>
+    <circle cx="94" cy="94" r="40" fill="none" stroke="#91ae98" stroke-width="2"/>
+    <circle cx="94" cy="94" r="10" fill="#a8c8ad"/>
+  </g>
+  <text x="108" y="568" fill="#6f8676" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">VS CODE  +  COPILOT CLI</text>
+</svg>
