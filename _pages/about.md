@@ -24,8 +24,7 @@ I am a current Erasmus Mundus in Sustainable Systems Engineering ([EMSSE](https:
 
 In 2025, I graduated summa cum laude from the University of Florida with a B.S. in Industrial and Systems Engineering and minors in both Economics and Sales Engineering.
 
-I have experience in software engineering, supply chain optimization, and project management for a [Fortune 50 company](https://us.pg.com/), and I am also the primary author of an [award-winning paper](https://iitsec.xcdacademy.com/index.cfm/item/56437) in AI research. 
-
+I have experience in software engineering, supply chain optimization, and project management for a [Fortune 50 company](https://us.pg.com/), and I am also the primary author of an [award-winning paper](https://iitsec.xcdacademy.com/index.cfm/item/56437) in AI research.
 
 ### Software Engineering
 
@@ -37,17 +36,14 @@ I have also worked on a few personal and academic projects including [GatorPy](.
 At [I/ITSEC 2025](https://www.iitsec.org/), I presented a paper titled **Multi-Agent Board Game Strategy Through Simulation** and won Best Paper for the conference.
 A blog detailing the development process and research contributions is available [here](https://www.ippd.ufl.edu/blogs/ay2425team03/blog-posts/).
 
+My research at the university was conducted under Dr. Aleksandr M. Kazachkov in the [Center for Applied Optimization](https://ise.ufl.edu/cao/), where I created a transportation optimization back-end system for a local food bank. My undergraduate thesis titled [A Reinforcement Learning Framework for Train Dispatch Networks](https://ufdc.ufl.edu/aa00114419/00001/) was also conducted with the CAO.
 
-My research at the university was conducted under Dr. Aleksandr M. Kazachkov in the [Center for Applied Optimization](https://ise.ufl.edu/cao/), where I created a transportation optimization back-end system for a local food bank. My undergraduate thesis titled [A Reinforcement Learning Framework for Train Dispatch Networks](https://ufdc.ufl.edu/aa00114419/00001/) was also conducted with the CAO.  
-
-Midi Crusher, an AI musicology personal research project, was awarded Best Undergraduate Poster at the 2024 Spring ISE Research Symposium. 
+Midi Crusher, an AI musicology personal research project, was awarded Best Undergraduate Poster at the 2024 Spring ISE Research Symposium.
 
 ### Teaching & Leadership
 
-During my bachelor's, I worked as a teaching assistant for six courses in the UF College of Engineering: EEL3003 (Intro to Circuits), ESI3215C (ISE Statistics), ESI4313 (Operations Research II), ESI4610 (Data Analytics I), EIN4343 (Inventory and Supply Chain Management), ESI4611 (Machine Learning). 
+During my bachelor's, I worked as a teaching assistant for six courses in the UF College of Engineering: EEL3003 (Intro to Circuits), ESI3215C (ISE Statistics), ESI4313 (Operations Research II), ESI4610 (Data Analytics I), EIN4343 (Inventory and Supply Chain Management), ESI4611 (Machine Learning).
 
-In 2025, I was the Ambassador Lead Chair for the Industrial and Systems Engineering Department. 
-I founded and lead the UF ISE Introduction to Research Program, a program that continues to lower the entry barrier for dozens of students to enter academic research. 
+In 2025, I was the Ambassador Lead Chair for the Industrial and Systems Engineering Department.
+I founded and lead the UF ISE Introduction to Research Program, a program that continues to lower the entry barrier for dozens of students to enter academic research.
 I was also a software lead for the Audio Engineering Society where I led workshops on writing bossa nova music and creating generative music AI models.
-
-
