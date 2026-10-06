@@ -4,7 +4,7 @@ permalink: /compositions/
 title: Compositions
 description: Some musical compositions I have written.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <style>

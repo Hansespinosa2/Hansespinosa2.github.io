@@ -1,0 +1,430 @@
+- name: Abu Dhabi, United Arab Emirates
+  latitude: 24.4539
+  longitude: 54.3773
+  country: United Arab Emirates
+  continent: Asia
+- name: Doha, Qatar
+  latitude: 25.2854
+  longitude: 51.531
+  country: Qatar
+  continent: Asia
+- name: Dubai, United Arab Emirates
+  latitude: 25.2048
+  longitude: 55.2708
+  country: United Arab Emirates
+  continent: Asia
+- name: Fujairah, United Arab Emirates
+  latitude: 25.1288
+  longitude: 56.3265
+  country: United Arab Emirates
+  continent: Asia
+- name: Istanbul, Turkey
+  latitude: 41.0082
+  longitude: 28.9784
+  country: Turkey
+  continent: Asia
+- name: Kathmandu, Nepal
+  latitude: 27.7172
+  longitude: 85.324
+  country: Nepal
+  continent: Asia
+- name: Muscat, Oman
+  latitude: 23.588
+  longitude: 58.3829
+  country: Oman
+  continent: Asia
+- name: New Delhi, India
+  latitude: 28.6139
+  longitude: 77.209
+  country: India
+  continent: Asia
+- name: Petra, Jordan
+  latitude: 30.3285
+  longitude: 35.4444
+  country: Jordan
+  continent: Asia
+- name: Phnom Penh, Cambodia
+  latitude: 11.5564
+  longitude: 104.9282
+  country: Cambodia
+  continent: Asia
+- name: Ras Al Khaimah, United Arab Emirates
+  latitude: 25.6741
+  longitude: 55.9804
+  country: United Arab Emirates
+  continent: Asia
+- name: Siem Reap, Cambodia
+  latitude: 13.3671
+  longitude: 103.8448
+  country: Cambodia
+  continent: Asia
+- name: Athens, Greece
+  latitude: 37.9838
+  longitude: 23.7275
+  country: Greece
+  continent: Europe
+- name: Barcelona, Spain
+  latitude: 41.3879
+  longitude: 2.1699
+  country: Spain
+  continent: Europe
+- name: Bologna, Italy
+  latitude: 44.4949
+  longitude: 11.3426
+  country: Italy
+  continent: Europe
+- name: Budva, Montenegro
+  latitude: 42.2911
+  longitude: 18.8403
+  country: Montenegro
+  continent: Europe
+- name: Compiègne, France
+  latitude: 49.4179
+  longitude: 2.8261
+  country: France
+  continent: Europe
+- name: Corinth, Greece
+  latitude: 37.9386
+  longitude: 22.9322
+  country: Greece
+  continent: Europe
+- name: Dhërmi, Albania
+  latitude: 40.15
+  longitude: 19.64
+  country: Albania
+  continent: Europe
+- name: Durrës, Albania
+  latitude: 41.3246
+  longitude: 19.4565
+  country: Albania
+  continent: Europe
+- name: Florence, Italy
+  latitude: 43.7696
+  longitude: 11.2558
+  country: Italy
+  continent: Europe
+- name: Genoa, Italy
+  latitude: 44.4056
+  longitude: 8.9463
+  country: Italy
+  continent: Europe
+- name: Kotor, Montenegro
+  latitude: 42.4247
+  longitude: 18.7712
+  country: Montenegro
+  continent: Europe
+- name: Lauterbrunnen, Switzerland
+  latitude: 46.5935
+  longitude: 7.9091
+  country: Switzerland
+  continent: Europe
+- name: Liverpool, United Kingdom
+  latitude: 53.4084
+  longitude: -2.9916
+  country: United Kingdom
+  continent: Europe
+- name: London, United Kingdom
+  latitude: 51.5074
+  longitude: -0.1278
+  country: United Kingdom
+  continent: Europe
+- name: Lucerne, Switzerland
+  latitude: 47.0502
+  longitude: 8.3093
+  country: Switzerland
+  continent: Europe
+- name: Lyon, France
+  latitude: 45.764
+  longitude: 4.8357
+  country: France
+  continent: Europe
+- name: Madrid, Spain
+  latitude: 40.4168
+  longitude: -3.7038
+  country: Spain
+  continent: Europe
+- name: Manchester, United Kingdom
+  latitude: 53.4808
+  longitude: -2.2426
+  country: United Kingdom
+  continent: Europe
+- name: Milan, Italy
+  latitude: 45.4642
+  longitude: 9.19
+  country: Italy
+  continent: Europe
+- name: Nice, France
+  latitude: 43.7102
+  longitude: 7.262
+  country: France
+  continent: Europe
+- name: Ohrid, North Macedonia
+  latitude: 41.1172
+  longitude: 20.8016
+  country: North Macedonia
+  continent: Europe
+- name: Paris, France
+  latitude: 48.8566
+  longitude: 2.3522
+  country: France
+  continent: Europe
+- name: Pristina, Kosovo
+  latitude: 42.6629
+  longitude: 21.1655
+  country: Kosovo
+  continent: Europe
+- name: Prizren, Kosovo
+  latitude: 42.2153
+  longitude: 20.7415
+  country: Kosovo
+  continent: Europe
+- name: Rome, Italy
+  latitude: 41.9028
+  longitude: 12.4964
+  country: Italy
+  continent: Europe
+- name: Sarandë, Albania
+  latitude: 39.8756
+  longitude: 20.0053
+  country: Albania
+  continent: Europe
+- name: Shkodër, Albania
+  latitude: 42.0693
+  longitude: 19.5033
+  country: Albania
+  continent: Europe
+- name: Tirana, Albania
+  latitude: 41.3275
+  longitude: 19.8187
+  country: Albania
+  continent: Europe
+- name: Turin, Italy
+  latitude: 45.0703
+  longitude: 7.6869
+  country: Italy
+  continent: Europe
+- name: Venice, Italy
+  latitude: 45.4408
+  longitude: 12.3155
+  country: Italy
+  continent: Europe
+- name: Vlorë, Albania
+  latitude: 40.4659
+  longitude: 19.4914
+  country: Albania
+  continent: Europe
+- name: Zurich, Switzerland
+  latitude: 47.3769
+  longitude: 8.5417
+  country: Switzerland
+  continent: Europe
+- name: Aguadilla, Puerto Rico
+  latitude: 18.4274
+  longitude: -67.1541
+  country: Puerto Rico
+  continent: North America
+- name: Atlanta, Georgia
+  latitude: 33.749
+  longitude: -84.388
+  country: United States
+  continent: North America
+- name: Aurora, Illinois
+  latitude: 41.7606
+  longitude: -88.3201
+  country: United States
+  continent: North America
+- name: Boca Raton, Florida
+  latitude: 26.3683
+  longitude: -80.1289
+  country: United States
+  continent: North America
+- name: Boston, Massachusetts
+  latitude: 42.3601
+  longitude: -71.0589
+  country: United States
+  continent: North America
+- name: Chicago, Illinois
+  latitude: 41.8781
+  longitude: -87.6298
+  country: United States
+  continent: North America
+- name: Cincinnati, Ohio
+  latitude: 39.1031
+  longitude: -84.512
+  country: United States
+  continent: North America
+- name: Detroit, Michigan
+  latitude: 42.3314
+  longitude: -83.0458
+  country: United States
+  continent: North America
+- name: Florida Keys, Florida
+  latitude: 24.7136
+  longitude: -81.0877
+  country: United States
+  continent: North America
+- name: Gainesville, Florida
+  latitude: 29.6516
+  longitude: -82.3248
+  country: United States
+  continent: North America
+- name: Hanover, New Hampshire
+  latitude: 43.7022
+  longitude: -72.2896
+  country: United States
+  continent: North America
+- name: Indianapolis, Indiana
+  latitude: 39.7684
+  longitude: -86.1581
+  country: United States
+  continent: North America
+- name: Key West, Florida
+  latitude: 24.5551
+  longitude: -81.78
+  country: United States
+  continent: North America
+- name: Los Angeles, California
+  latitude: 34.0522
+  longitude: -118.2437
+  country: United States
+  continent: North America
+- name: Manhattan, New York
+  latitude: 40.7831
+  longitude: -73.9712
+  country: United States
+  continent: North America
+- name: Mexico City, Mexico
+  latitude: 19.4326
+  longitude: -99.1332
+  country: Mexico
+  continent: North America
+- name: Miami, Florida
+  latitude: 25.7617
+  longitude: -80.1918
+  country: United States
+  continent: North America
+- name: Monterrey, Mexico
+  latitude: 25.6866
+  longitude: -100.3161
+  country: Mexico
+  continent: North America
+- name: Newark, New Jersey
+  latitude: 40.7357
+  longitude: -74.1724
+  country: United States
+  continent: North America
+- name: Orlando, Florida
+  latitude: 28.5383
+  longitude: -81.3792
+  country: United States
+  continent: North America
+- name: Philadelphia, Pennsylvania
+  latitude: 39.9526
+  longitude: -75.1652
+  country: United States
+  continent: North America
+- name: Playa del Carmen, Mexico
+  latitude: 20.6296
+  longitude: -87.0739
+  country: Mexico
+  continent: North America
+- name: Richmond, Virginia
+  latitude: 37.5407
+  longitude: -77.436
+  country: United States
+  continent: North America
+- name: San Diego, California
+  latitude: 32.7157
+  longitude: -117.1611
+  country: United States
+  continent: North America
+- name: San Francisco, California
+  latitude: 37.7749
+  longitude: -122.4194
+  country: United States
+  continent: North America
+- name: San Juan, Puerto Rico
+  latitude: 18.4655
+  longitude: -66.1057
+  country: Puerto Rico
+  continent: North America
+- name: St. Augustine, Florida
+  latitude: 29.9012
+  longitude: -81.3124
+  country: United States
+  continent: North America
+- name: Tallahassee, Florida
+  latitude: 30.4383
+  longitude: -84.2807
+  country: United States
+  continent: North America
+- name: Tampa, Florida
+  latitude: 27.9506
+  longitude: -82.4572
+  country: United States
+  continent: North America
+- name: Toledo, Ohio
+  latitude: 41.6528
+  longitude: -83.5379
+  country: United States
+  continent: North America
+- name: Washington, D.C.
+  latitude: 38.9072
+  longitude: -77.0369
+  country: United States
+  continent: North America
+- name: West Lafayette, Indiana
+  latitude: 40.4259
+  longitude: -86.9081
+  country: United States
+  continent: North America
+- name: Williamsburg, Virginia
+  latitude: 37.2707
+  longitude: -76.7075
+  country: United States
+  continent: North America
+- name: Buenos Aires, Argentina
+  latitude: -34.6037
+  longitude: -58.3816
+  country: Argentina
+  continent: South America
+- name: Caracas, Venezuela
+  latitude: 10.4806
+  longitude: -66.9036
+  country: Venezuela
+  continent: South America
+- name: Lençóis Maranhenses, Brazil
+  latitude: -2.5298
+  longitude: -43.1256
+  country: Brazil
+  continent: South America
+- name: Mérida, Venezuela
+  latitude: 8.5983
+  longitude: -71.145
+  country: Venezuela
+  continent: South America
+- name: Puerto Iguazú, Argentina
+  latitude: -25.5991
+  longitude: -54.5736
+  country: Argentina
+  continent: South America
+- name: Quito, Ecuador
+  latitude: -0.1807
+  longitude: -78.4678
+  country: Ecuador
+  continent: South America
+- name: Rio de Janeiro, Brazil
+  latitude: -22.9068
+  longitude: -43.1729
+  country: Brazil
+  continent: South America
+- name: São Paulo, Brazil
+  latitude: -23.5505
+  longitude: -46.6333
+  country: Brazil
+  continent: South America
+- name: Tucacas, Venezuela
+  latitude: 10.7937
+  longitude: -68.3207
+  country: Venezuela
+  continent: South America

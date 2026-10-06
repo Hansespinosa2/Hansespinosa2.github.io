@@ -173,3 +173,139 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+/*******************************************************************************
+ * Blog Post & Travels Enhancements
+ ******************************************************************************/
+
+blockquote {
+  border-left: 3px solid var(--global-theme-color);
+  padding: 0.85rem 1.4rem;
+  margin: 1.75rem 0;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.25rem;
+  font-style: italic;
+  background: var(--global-card-bg-color);
+  border-radius: 0 8px 8px 0;
+  color: var(--global-text-color);
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  letter-spacing: -0.01em;
+
+  p {
+    margin-bottom: 1.4rem;
+  }
+}
+
+.travel-map {
+  height: 520px;
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--global-divider-color);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  z-index: 1;
+}
+
+.stat-card {
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  padding: 1rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .stat-number {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--global-theme-color);
+    line-height: 1.1;
+  }
+
+  .stat-label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--global-text-color-light);
+    margin-top: 0.25rem;
+  }
+}
+
+.region-card {
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  overflow: hidden;
+
+  .card-header {
+    background: transparent;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding: 0.75rem 1.25rem;
+  }
+
+  .region-heading {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.4rem;
+    color: var(--global-text-color);
+  }
+
+  .region-badge {
+    background: var(--global-theme-color);
+    color: var(--global-bg-color);
+    font-size: 0.75rem;
+    border-radius: 12px;
+    padding: 0.2rem 0.6rem;
+    vertical-align: middle;
+  }
+}
+
+.btn-outline-place {
+  border: 1px solid var(--global-divider-color);
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+  border-radius: 6px;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-color: var(--global-theme-color);
+    background: var(--global-card-bg-color);
+    color: var(--global-theme-color);
+    transform: translateY(-1px);
+  }
+}
+
+.map-popup-card {
+  padding: 0.25rem;
+
+  .map-popup-title {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0 0 0.25rem 0;
+    color: #1b1b1b;
+  }
+}
+
+html[data-theme="dark"] {
+  .leaflet-popup-content-wrapper {
+    background: var(--global-card-bg-color);
+    color: var(--global-text-color);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+  }
+  .leaflet-popup-tip {
+    background: var(--global-card-bg-color);
+  }
+  .map-popup-card .map-popup-title {
+    color: var(--global-text-color);
+  }
+}
