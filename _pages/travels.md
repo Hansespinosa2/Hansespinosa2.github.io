@@ -24,22 +24,17 @@ nav_order: 5
     {% for continent in continents %}
       {% assign continent_places = site.data.places | where: "continent", continent %}
       {% if continent_places.size > 0 %}
-        <div class="card region-card mb-3">
-          <div class="card-header d-flex justify-content-between align-items-center">
-            <h4 class="mb-0 region-heading">
-              {{ continent }} <span class="badge region-badge">{{ continent_places.size }}</span>
-            </h4>
+        <div class="continent-section mb-3">
+          <div class="continent-header d-flex align-items-baseline mb-2">
+            <h4 class="continent-name mb-0">{{ continent }}</h4>
+            <span class="continent-count badge ms-2">{{ continent_places.size }}</span>
           </div>
-          <div class="card-body">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-2">
-              {% for place in continent_places %}
-                <div class="col">
-                  <button class="btn btn-outline-place w-100 text-start d-flex justify-content-between align-items-center" onclick="zoomToPlace({{ place.latitude }}, {{ place.longitude }}, '{{ place.name | escape }}')">
-                    <span class="place-name text-truncate">{{ place.name }}</span>
-                  </button>
-                </div>
-              {% endfor %}
-            </div>
+          <div class="continent-chips d-flex flex-wrap">
+            {% for place in continent_places %}
+              <button class="btn place-chip" onclick="zoomToPlace({{ place.latitude }}, {{ place.longitude }}, '{{ place.name | escape }}')">
+                {{ place.name }}
+              </button>
+            {% endfor %}
           </div>
         </div>
       {% endif %}

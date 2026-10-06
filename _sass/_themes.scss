@@ -239,48 +239,65 @@ blockquote {
   }
 }
 
-.region-card {
-  background: var(--global-card-bg-color);
-  border: 1px solid var(--global-divider-color);
-  border-radius: 10px;
-  overflow: hidden;
-
-  .card-header {
-    background: transparent;
-    border-bottom: 1px solid var(--global-divider-color);
-    padding: 0.75rem 1.25rem;
-  }
-
-  .region-heading {
+.travel-directory {
+  .directory-title {
     font-family: "Cormorant Garamond", serif;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
+    font-weight: 600;
     color: var(--global-text-color);
-  }
-
-  .region-badge {
-    background: var(--global-theme-color);
-    color: var(--global-bg-color);
-    font-size: 0.75rem;
-    border-radius: 12px;
-    padding: 0.2rem 0.6rem;
-    vertical-align: middle;
   }
 }
 
-.btn-outline-place {
-  border: 1px solid var(--global-divider-color);
-  background: var(--global-bg-color);
-  color: var(--global-text-color);
-  border-radius: 6px;
-  padding: 0.5rem 0.85rem;
-  font-size: 0.9rem;
-  transition: all 0.2s ease;
+.continent-section {
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid var(--global-divider-color);
 
-  &:hover {
-    border-color: var(--global-theme-color);
-    background: var(--global-card-bg-color);
-    color: var(--global-theme-color);
-    transform: translateY(-1px);
+  &:last-child {
+    border-bottom: none;
+  }
+
+  .continent-header {
+    .continent-name {
+      font-family: "Cormorant Garamond", serif;
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: var(--global-text-color);
+    }
+
+    .continent-count {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--global-theme-color);
+      background: var(--global-card-bg-color);
+      border: 1px solid var(--global-divider-color);
+      border-radius: 12px;
+      padding: 0.15rem 0.55rem;
+    }
+  }
+
+  .continent-chips {
+    gap: 0.35rem 0.45rem !important;
+
+    .place-chip {
+      background: var(--global-card-bg-color);
+      border: 1px solid var(--global-divider-color);
+      color: var(--global-text-color);
+      font-size: 0.81rem;
+      padding: 0.22rem 0.6rem;
+      border-radius: 6px;
+      line-height: 1.35;
+      font-weight: 400;
+      box-shadow: none;
+      transition: all 0.15s ease;
+      cursor: pointer;
+
+      &:hover {
+        background: var(--global-theme-color);
+        border-color: var(--global-theme-color);
+        color: #ffffff;
+        transform: translateY(-1px);
+      }
+    }
   }
 }
 
