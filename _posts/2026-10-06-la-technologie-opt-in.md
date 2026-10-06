@@ -30,3 +30,5 @@ Alors, pourquoi me plains-je de ces applications ? Car cette promesse crée une 
 Une technologie peut naître d'une intention bénéfique et rester, au départ, entièrement "opt-in". Elle commence par une promesse d'améliorer notre vie, puis, à mesure que la population l'adopte, elle devient dominante; et une fois dominante, elle devient obligatoire de fait; et avec l'obligation vient la disparition progressive, puis totale, des alternatives ( en tant qu'enterprise, pourquoi paierais-je pour maintenir deux solutions qui résolvent le même problème ? ).
 
 Pour qu'une technologie tienne vraiment sa promesse, elle doit offrir une possibilité supplémentaire sans détruire celles qui existaient auparavant. Elle doit rester véritablement "opt-in". La valeur d’une nouvelle technologie pour une société tient autant à ce qu’elle rend possible qu’à ce qu’elle laisse encore possible sans elle.
+
+Et pour la prochaine fois, j’aimerais que mon portable soit une option pour quitter Paris, pas une condition.
