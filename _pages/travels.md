@@ -7,35 +7,13 @@ nav: true
 nav_order: 5
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="anonymous" />
-<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <div class="travels-container">
 
-  <!-- Overview Stats -->
-  <div class="travels-stats row text-center mb-4 g-2">
-    <div class="col-4">
-      <div class="stat-card">
-        <span class="stat-number">86</span>
-        <span class="stat-label">Destinations</span>
-      </div>
-    </div>
-    <div class="col-4">
-      <div class="stat-card">
-        <span class="stat-number">24</span>
-        <span class="stat-label">Countries</span>
-      </div>
-    </div>
-    <div class="col-4">
-      <div class="stat-card">
-        <span class="stat-number">4</span>
-        <span class="stat-label">Continents</span>
-      </div>
-    </div>
-  </div>
-
   <!-- Interactive Map -->
-  <div id="travel-map" class="travel-map mb-4" style="height: 520px; width: 100%; min-height: 520px; position: relative; border-radius: 12px; overflow: hidden;"></div>
+  <div id="travel-map" class="travel-map mb-4" style="height: 520px; width: 100%; min-height: 520px; position: relative; border-radius: 12px; overflow: hidden; border: 1px solid var(--global-divider-color);"></div>
 
   <!-- Continent Directory -->
   <div class="travel-directory mt-4">
@@ -78,7 +56,7 @@ nav_order: 5
 
   function initMap() {
     if (typeof L === "undefined") {
-      setTimeout(initMap, 100);
+      setTimeout(initMap, 50);
       return;
     }
 
@@ -94,22 +72,27 @@ nav_order: 5
     });
 
     const isDark = document.documentElement.getAttribute("data-theme") === "dark";
-    const lightTiles = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png";
-    const darkTiles = "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png";
-    const osmTiles = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
+    const lightBaseUrl = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}";
+    const lightRefUrl = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}";
+    const darkBaseUrl = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}";
+    const darkRefUrl = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}";
 
-    // Use OpenStreetMap / CartoDB tiles
-    const tileUrl = isDark ? darkTiles : lightTiles;
-    const tileLayer = L.tileLayer(tileUrl, {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-      maxZoom: 19,
-      subdomains: "abcd",
+    const baseLayer = L.tileLayer(isDark ? darkBaseUrl : lightBaseUrl, {
+      attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
+      maxZoom: 16,
+    }).addTo(mapInstance);
+
+    const refLayer = L.tileLayer(isDark ? darkRefUrl : lightRefUrl, {
+      attribution: '',
+      maxZoom: 16,
+      pane: "shadowPane",
     }).addTo(mapInstance);
 
     // Watch dark/light theme toggle
     const observer = new MutationObserver(function() {
       const darkNow = document.documentElement.getAttribute("data-theme") === "dark";
-      tileLayer.setUrl(darkNow ? darkTiles : lightTiles);
+      baseLayer.setUrl(darkNow ? darkBaseUrl : lightBaseUrl);
+      refLayer.setUrl(darkNow ? darkRefUrl : lightRefUrl);
     });
     observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
 
@@ -152,7 +135,7 @@ nav_order: 5
       mapInstance.fitBounds(boundsCoords, { padding: [40, 40], maxZoom: 5 });
     }
 
-    // Invalidate size to ensure full tile rendering
+    // Force tile recalculation
     mapInstance.invalidateSize();
     setTimeout(function() {
       if (mapInstance) mapInstance.invalidateSize();
