@@ -25,9 +25,10 @@ nav_order: 5
       {% assign continent_places = site.data.places | where: "continent", continent %}
       {% if continent_places.size > 0 %}
         <div class="continent-section mb-3">
-          <div class="continent-header d-flex align-items-baseline mb-2">
-            <h4 class="continent-name mb-0">{{ continent }}</h4>
-            <span class="continent-count badge ms-2">{{ continent_places.size }}</span>
+          <div class="continent-header mb-2">
+            <h4 class="continent-name mb-0">
+              {{ continent }} <span class="continent-count">({{ continent_places.size }})</span>
+            </h4>
           </div>
           <div class="continent-chips d-flex flex-wrap">
             {% for place in continent_places %}
