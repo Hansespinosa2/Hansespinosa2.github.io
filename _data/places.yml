@@ -58,6 +58,11 @@
   longitude: 103.8448
   country: Cambodia
   continent: Asia
+- name: Amiens, France
+  latitude: 49.8941
+  longitude: 2.2958
+  country: France
+  continent: Europe
 - name: Athens, Greece
   latitude: 37.9838
   longitude: 23.7275
@@ -68,10 +73,20 @@
   longitude: 2.1699
   country: Spain
   continent: Europe
+- name: Beauvais, France
+  latitude: 49.4295
+  longitude: 2.0807
+  country: France
+  continent: Europe
 - name: Bologna, Italy
   latitude: 44.4949
   longitude: 11.3426
   country: Italy
+  continent: Europe
+- name: Brussels, Belgium
+  latitude: 50.8503
+  longitude: 4.3517
+  country: Belgium
   continent: Europe
 - name: Budva, Montenegro
   latitude: 42.2911
@@ -108,6 +123,11 @@
   longitude: 8.9463
   country: Italy
   continent: Europe
+- name: Ghent, Belgium
+  latitude: 51.0543
+  longitude: 3.7174
+  country: Belgium
+  continent: Europe
 - name: Kotor, Montenegro
   latitude: 42.4247
   longitude: 18.7712
@@ -117,6 +137,11 @@
   latitude: 46.5935
   longitude: 7.9091
   country: Switzerland
+  continent: Europe
+- name: Lille, France
+  latitude: 50.6292
+  longitude: 3.0573
+  country: France
   continent: Europe
 - name: Liverpool, United Kingdom
   latitude: 53.4084

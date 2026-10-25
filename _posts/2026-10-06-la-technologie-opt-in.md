@@ -3,8 +3,8 @@ layout: post
 title: La Technologie "Opt-In"
 date: 2026-10-06 09:00:00 +0200
 description: Je bénéficie de la technologie si je choisis de l'utiliser, mais son absence ne m'empêche pas d'accomplir la tâche fondamentale.
-tags: français technologie société
-categories: réflexions
+tags: francais technology society
+categories: reflections
 tabs: false
 pretty_table: true
 ---
